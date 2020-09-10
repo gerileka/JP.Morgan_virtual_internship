@@ -8,7 +8,7 @@ This repository contains the submitted patch files of the various tasks assigned
 
 ## My Certificate of Completion 
 
-![](https://github.com/qfqfeqefqfeqef1%20at%2012.41.54%20PM.png)
+![](https://github.com/gerileka/JP.Morgan_virtual_internship/blob/master/JPMorgan%20Chase__completion_certificate.png)
 
 ## For any queries/doubts:
 
